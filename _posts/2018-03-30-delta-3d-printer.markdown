@@ -6,6 +6,10 @@ author: jaehoosu
 categories: DIY
 tags: delta 3d printer
 ---
+
+
 ## Delata 3D Printer DIY
+
+### Parts
 
 
