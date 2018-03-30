@@ -7,10 +7,9 @@ categories: Dummy
 tags: lambda
 ---
 
-lambda expression
+## lambda expression
 
-##java
-
+### java
 
 ( parameters ) -> expression body
 ( parameters ) -> { expression body }
@@ -18,12 +17,12 @@ lambda expression
 () -> expression body
 ...
 
-{% highlight javas %}
+{% highlight java %}
   () -> { System.out::println;}
 {% endhighlight %}
 
   
-## C++
+### C++
 
 [ captures ]( params ) -> ret { body }
 [ captures ]( params ) { body }
