@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dummy Post - Lambda expression"
-date:   2015-04-18 08:43:59
+title:  "Lambda expression...."
+date:   2018-03-31 13:30:00
 author: jaehoosu
 categories: Dummy
 tags: lambda
