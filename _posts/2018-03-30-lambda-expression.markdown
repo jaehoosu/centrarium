@@ -7,7 +7,25 @@ categories: Dummy
 tags: lambda
 ---
 
+## Rules of this theme and editor.
+
+* Quotes simbolic
+
+`->`
+* Hightlight
+{% highlight java %}
+TextView textView = (TextView) findViewById(R.id.text_view);
+...
+{% endhighlight %}
+
+* step rules
+
+** with lambda expression
+
+
+
 ## Lambda expression
+Lambda Expressions are one of the most important.....
 
 ### java
 
