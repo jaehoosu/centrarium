@@ -20,6 +20,10 @@ tags: lambda
 수량:1
 ---
 
+구분	부품명	판매처	수량	Shop	Item price	Qty
+해외	RUMBA	reprapdiscount	1	reprapdiscount	$80.00 	1
+
+
 
 * Hightlight
 {% highlight java %}
