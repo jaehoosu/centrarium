@@ -3,7 +3,7 @@ layout: post
 title:  "Lambda expression...."
 date:   2018-03-31 13:30:00
 author: jaehoosu
-categories: Dummy
+categories: java
 tags: lambda
 ---
 
