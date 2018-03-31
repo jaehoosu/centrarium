@@ -12,8 +12,14 @@ tags: lambda
 * Quotes simbolic
 
 `->`
-`multi line----------
----------------------'
+
+---
+구분:해외
+부품영:RUMBA
+판매점:reprapdiscount
+수량:1
+---
+
 
 * Hightlight
 {% highlight java %}
