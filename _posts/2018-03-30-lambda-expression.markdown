@@ -12,6 +12,9 @@ tags: lambda
 * Quotes simbolic
 
 `->`
+`multi line----------
+---------------------'
+
 * Hightlight
 {% highlight java %}
 TextView textView = (TextView) findViewById(R.id.text_view);
